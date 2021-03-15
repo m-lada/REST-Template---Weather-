@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30002b1e-506d-4def-9461-5f01ebc6ed5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/maciek/resttemplate/model/WeatherMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/maciek/resttemplate/model/WeatherMapper.java" afterDir="false" />
+    </list>
+    <list id="ff035176-bbb6-4009-9ed7-94274c10c16d" name="Revert &quot;2. Resolve A1&quot;" comment="Revert &quot;2. Resolve A1&quot;&#10;&#10;This reverts commit f6e6a353" />
+    <list id="e2201603-9f7f-4c81-8221-9c614c6eadee" name="Revert &quot;2. Resolve A1&quot;-2" comment="Revert &quot;2. Resolve A1&quot;&#10;&#10;This reverts commit f6e6a353" />
+    <list id="150f902d-c91a-4477-ba70-c31935aafd4f" name="Revert &quot;3. Corrections A1&quot;" comment="Revert &quot;3. Corrections A1&quot;&#10;&#10;This reverts commit f15e326f" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q4A20a5gzF0NHqd6VDW1d17euC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ResttemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="resttemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.maciek.resttemplate.ResttemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30002b1e-506d-4def-9461-5f01ebc6ed5b" name="Default Changelist" comment="" />
+      <created>1616328278276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616328278276</updated>
+      <workItem from="1616328279405" duration="2517000" />
+      <workItem from="1616330943978" duration="2227000" />
+      <workItem from="1616446568812" duration="837000" />
+      <workItem from="1616514288458" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2991" y="-650" key="#Notifications" timestamp="1616328810305">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-2991" y="-650" key="#Notifications/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616328810305" />
+    <state width="2151" height="409" key="GridCell.Tab.0.bottom" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.0.bottom/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.0.center" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.0.center/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.0.left" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.0.left/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.0.right" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.0.right/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.1.bottom" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.1.bottom/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.1.center" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.1.center/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.1.left" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.1.left/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.1.right" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.1.right/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.2.bottom" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.2.bottom/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.2.center" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.2.center/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.2.left" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.2.left/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state width="2151" height="409" key="GridCell.Tab.2.right" timestamp="1616337298189">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="409" key="GridCell.Tab.2.right/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616337298189" />
+    <state x="-3364" y="-821" key="MergeDialog" timestamp="1616329387033">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-3364" y="-821" key="MergeDialog/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616329387033" />
+    <state x="-3104" y="-712" key="MultipleFileMergeDialog" timestamp="1616329731755">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-3104" y="-712" key="MultipleFileMergeDialog/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616329731755" />
+    <state x="-3150" y="-741" key="Vcs.Push.Dialog.v2" timestamp="1616330229044">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-3150" y="-741" key="Vcs.Push.Dialog.v2/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616330229044" />
+    <state x="-3023" y="-740" key="VcsDiffUtil.ChangesDialog" timestamp="1616328339457">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-3023" y="-740" key="VcsDiffUtil.ChangesDialog/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616328339457" />
+    <state x="-2984" y="-572" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616446576455">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-2984" y="-572" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616446576455" />
+    <state x="-3080" y="-807" width="672" height="678" key="search.everywhere.popup" timestamp="1616446801192">
+      <screen x="-3840" y="-1071" width="2194" height="1194" />
+    </state>
+    <state x="-3080" y="-807" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-3840.-1071.2194.1194@-3840.-1071.2194.1194" timestamp="1616446801192" />
+  </component>
+</project>

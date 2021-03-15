@@ -1,0 +1,28 @@
+Index: src/main/java/pl/maciek/resttemplate/ResttemplateApplication.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package pl.maciek.resttemplate;\r\n\r\nimport org.springframework.boot.SpringApplication;\r\nimport org.springframework.boot.autoconfigure.SpringBootApplication;\r\n\r\n@SpringBootApplication\r\npublic class ResttemplateApplication {\r\n\r\n    public static void main(String[] args) {\r\n        SpringApplication.run(ResttemplateApplication.class, args);\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/pl/maciek/resttemplate/ResttemplateApplication.java	(revision 28114d4598e1035956a253bc1f07e2153b2057c0)
++++ src/main/java/pl/maciek/resttemplate/ResttemplateApplication.java	(date 1616329360331)
+@@ -2,6 +2,8 @@
+ 
+ import org.springframework.boot.SpringApplication;
+ import org.springframework.boot.autoconfigure.SpringBootApplication;
++import org.springframework.context.annotation.Bean;
++import org.springframework.web.client.RestTemplate;
+ 
+ @SpringBootApplication
+ public class ResttemplateApplication {
+@@ -10,4 +12,9 @@
+         SpringApplication.run(ResttemplateApplication.class, args);
+     }
+ 
++    @Bean
++    public RestTemplate restTemplate() {
++        return new RestTemplate();
++    }
++
+ }
