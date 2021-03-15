@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Pogoda</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+            crossorigin="anonymous"></script>
+
+    <style>
+        td {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+
+<div style="margin: 100px auto; max-width: 1000px; width: 100%">
+
+    <div>
+        <form action="/" method="get">
+            <input type="text" name="city" id="city">
+            <input type="submit" value="Pobierz pogodę!">
+        </form>
+    </div>
+
+    <div th:if="${weather != null}">
+
+        <h1>Pogoda w mieście: </h1>
+        <h2 th:text="${weather.city}"></h2>
+
+        <table>
+            <tbody th:object="${weather}">
+            <tr>
+                <td>Temperatura</td>
+                <td th:text="*{temperature_current}"></td>
+                <td> &deg C </td>
+            </tr>
+            <tr>
+                <td>Temperatura odczuwalna</td>
+                <td th:text="*{temperature_felt}"></td>
+                <td> &deg C </td>
+            </tr>
+            <tr>
+                <td>Temperatura minimalna</td>
+                <td th:text="*{temperature_min}"></td>
+                <td> &deg C </td>
+            </tr>
+            <tr>
+                <td>Temperatura maxymalna</td>
+                <td th:text="*{temperature_max}"></td>
+                <td> &deg C </td>
+            </tr>
+            <tr>
+                <td>Ciśnienie</td>
+                <td th:text="*{pressure}"></td>
+                <td> hpa </td>
+            </tr>
+            <tr>
+                <td>Wilgotność</td>
+                <td th:text="*{humidity}"></td>
+                <td> &percnt; </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
