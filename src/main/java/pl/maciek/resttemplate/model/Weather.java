@@ -12,10 +12,10 @@ import java.math.BigDecimal;
 public class Weather {
 
     private String city;
-    private BigDecimal temperature_current;
-    private BigDecimal temperature_felt;
-    private BigDecimal temperature_max;
-    private BigDecimal temperature_min;
+    private BigDecimal temperatureCurrent;
+    private BigDecimal temperatureFelt;
+    private BigDecimal temperatureMax;
+    private BigDecimal temperatureMin;
     private BigDecimal pressure;
     private BigDecimal humidity;
 

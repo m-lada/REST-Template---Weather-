@@ -1,5 +1,6 @@
 package pl.maciek.resttemplate.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
 import java.math.BigDecimal;
@@ -8,9 +9,13 @@ import java.util.Map;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class WeatherObjectDto {
+public class WeatherDto {
 
     private String name;
-    private Map<String, BigDecimal> main;
+
+    @JsonProperty("main")
+    private WeatherParams weatherParams;
+
+
 
 }

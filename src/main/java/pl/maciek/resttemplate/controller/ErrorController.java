@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import pl.maciek.resttemplate.components.CityNotFoundException;
 
 @ControllerAdvice
-class ErrorControllerAdvice {
+class ErrorController {
 
     @ExceptionHandler(CityNotFoundException.class)
     public String handleException() {
